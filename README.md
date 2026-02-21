@@ -27,3 +27,12 @@ to compare architectural tradeoffs between different orbital regimes.
 ## Visualization
 The project includes a latency comparison plot illustrating the significant
 differences in round-trip communication delay between LEO, MEO, and GEO orbits.
+
+## Future Work
+Planned enhancements to extend this simulator toward more realistic
+space mission analysis include:
+
+- Incorporating orbital geometry and elevation angles to model slant-range distance
+- Adding basic link budget calculations to evaluate signal strength and reliability
+- Simulating multi-hop satellite relays and ground station handoffs
+- Extending the model to analyze latency impacts on time-sensitive mission operations
