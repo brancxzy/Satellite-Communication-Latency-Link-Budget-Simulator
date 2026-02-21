@@ -1,1 +1,1 @@
-# Satellite-Communication-Latency-Link-Budget-Simulator
+Modeled satellite communication latency for LEO, MEO, and GEO orbits using physics-based propagation calculations. Compared round-trip delays and evaluated architectural tradeoffs impacting real-time space communications and mission responsiveness.
