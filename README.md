@@ -1,1 +1,12 @@
-Modeled satellite communication latency for LEO, MEO, and GEO orbits using physics-based propagation calculations. Compared round-trip delays and evaluated architectural tradeoffs impacting real-time space communications and mission responsiveness.
+# Satellite Communication Latency Simulator
+
+Physics-based simulation of satellite communication latency for LEO, MEO, and GEO orbits.
+
+## Overview
+This project models satellite communication delays using signal propagation physics
+to compare architectural tradeoffs between orbital regimes.
+
+## Technologies
+- Python
+- Physics-based modeling
+- Object-oriented design
