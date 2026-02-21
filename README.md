@@ -23,3 +23,7 @@ to compare architectural tradeoffs between different orbital regimes.
 - Python
 - Physics-based modeling
 - Object-oriented design
+
+## Visualization
+The project includes a latency comparison plot illustrating the significant
+differences in round-trip communication delay between LEO, MEO, and GEO orbits.
